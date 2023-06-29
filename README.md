@@ -4,17 +4,18 @@
  </h1>
 
 
-<h4 style="text-align:center"> Desenvolvedor Web Júnior</h4>
+<h4 style="text-align:center"> Desenvolvedor Back-end Júnior</h4>
     <br>
 
 ### 🌼 Sobre mim:
 
 <br>
 
-Tenho 21 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar um *Desenvolvedor*
+Tenho 21 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
 
 * 🚀 Estudante da b7web
 * 🏫 Cursando Engenharia da Computação
+* 👨‍💻 Estágiario back-end na ImovelGuide
 * Eu amo programar, Sempre estou apredendo algo novo no meu dia a dia 🚀
 
 <br>

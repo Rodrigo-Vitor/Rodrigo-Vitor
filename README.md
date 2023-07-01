@@ -13,7 +13,7 @@
 
 Tenho 21 anos, Sou de Minas Gerais e estou trilhando meu caminho para se tornar um *Desenvolvedor Full-stack*
 
-* 🚀 Estudante da b7web
+* 🚀 Estudante de programação
 * 🏫 Cursando Engenharia da Computação
 * 👨‍💻 Estágiario back-end na ImovelGuide
 * Eu amo programar, Sempre estou apredendo algo novo no meu dia a dia 🚀
